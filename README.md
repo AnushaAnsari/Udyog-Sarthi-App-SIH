@@ -1,7 +1,7 @@
 # Title of the project
 **Progressive Web Application for Job Coaching and Opportunities for Persons with Disabilities (SIH1333)**
 
-# Description**
+# Description
 Our solution is a web-based service that uses AI and machine learning to align with government policies and social initiatives to enhance employment prospects for people with disabilities (PwDs). The model is designed to provide a comprehensive set of resources and supports tailored to the unique needs of PwDs. Here is an overview of the main components:
 
 **1. Individual Job Suggestions:** Users can create detailed information, including skills, qualifications, location and disability criteria. Machine learning algorithms analyze this information and provide personalized action recommendations. Timely reporting ensures that users are notified of appropriate privileges.
